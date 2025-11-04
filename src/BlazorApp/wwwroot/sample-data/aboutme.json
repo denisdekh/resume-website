@@ -1,12 +1,11 @@
 {
-  "description": "I graduated with a BSc in Computer Science from University of Toronto, and I am looking for internships and full-time positions in Chicago, IL.",
+  "description": "I am a software developer specializing in backend API development. I've worked at the Illinois Secretary of State on their Mobile Drivers License implementation and developed many of the critical systems that interface with the agency's interal data systems and external partners like Apple Wallet. I am familiar with API design using both OpenAPI and RAML specifications, as well as implementation using Mulesoft/Java and .NET.",
   "skills": [
-    "Software/Algorithm design",
-    ".NET",
+    "MuleSoft/Anypoint",
     "Java",
-    "Python",
-    "C/C#",
-    "REST API"
+    "REST API Design",
+    ".NET/C#",
+    "Python"
   ],
-  "detailOrQuote": "I am excited to learn new technologies and grow in a new role. This is how I made this website - in order to learn .NET and to expand my skills set"
+  "detailOrQuote": "I am excited to apply my skills and learn new technologies in order to thrive in a new role"
 }

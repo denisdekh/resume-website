@@ -1,7 +1,7 @@
 [
   {
     "title": "MMM Atlas: Game Mapping Platform",
-    "description": "Developed a full-stack .NET web app for community-driven Steam game categorization. Designed the requirements and supervised an AI coding agent through much of the implementation. Built APIs for game discovery and voting, integrated Steam authentication and library data, and optimized database queries to handle 37+ transactions per second on a small hardware footprint.",
+    "description": "Designed a full-stack .NET web app and supervised an AI coding agent implementation. Built APIs for game discovery and voting, integrated Steam authentication and library data, and optimized database queries to handle 37+ tps on a small hardware footprint.",
     "url": "https://gamechart.app/"
   },
   {

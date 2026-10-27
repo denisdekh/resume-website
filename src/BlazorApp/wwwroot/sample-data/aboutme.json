@@ -1,5 +1,5 @@
 {
-  "description": "I am a software developer specializing in backend API development. I've worked at the Illinois Secretary of State on their Mobile Drivers License implementation and developed many of the critical systems that interface with the agency's interal data systems and external partners like Apple Wallet. I am familiar with API design using both OpenAPI and RAML specifications, as well as implementation using Mulesoft/Java and .NET.",
+  "description": "I am a software developer specializing in backend API development. I've worked at the Illinois Secretary of State on their Mobile Drivers License implementation and developed many of the critical APIs that interface with the agency's internal data systems and external partners like Apple Wallet. I am familiar with API design using both OpenAPI and RAML specifications, as well as implementation using Mulesoft, Java and .NET.",
   "skills": [
     "MuleSoft/Anypoint",
     "Java",

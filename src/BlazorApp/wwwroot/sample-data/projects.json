@@ -1,8 +1,8 @@
 [
   {
-    "title": "Java/MySQL Database App",
-    "description": "Created a Java TUI app for posting and finding rental accommodations (Airbnb used as a template). Created a standalone MySQL server with custom functions, routines and triggers, and Java business logic with JDBC for receiving/processing input and issuing queries to the server",
-    "url": null
+    "title": "MMM Atlas: Game Mapping Platform",
+    "description": "Developed a full-stack .NET web app for community-driven Steam game categorization. Designed the requirements and supervised an AI coding agent through much of the implementation. Built APIs for game discovery and voting, integrated Steam authentication and library data, and optimized database queries to handle 37+ transactions per second on a small hardware footprint.",
+    "url": "https://gamechart.app/"
   },
   {
     "title": "Sports And Games Social Platform",
